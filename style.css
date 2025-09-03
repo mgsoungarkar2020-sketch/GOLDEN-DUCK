@@ -56,3 +56,14 @@ header {
     background-color: gold;
     padding: 20px;
 }
+section{
+    margin:0px 20%;
+    background-color:beige;
+}
+section img{
+    width: 100%;
+}
+section p{
+    margin:40px;
+    line-height: 30px;
+}
